@@ -1,0 +1,109 @@
+@font-face{
+    font-family: food;
+    src: url(Sanchez-Regular.ttf);
+}
+body {
+    background-color: #c2e2bd;
+    font-family: food;
+}
+
+div#logotipo {
+    margin-left: 5px;
+    padding: 10px;
+    width: 475px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+div#quadro1 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    width: 1280px;
+    height: 725px;
+    background-color: #e3f2e1;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.445);
+}
+
+div#quadro2 {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin: auto;
+    margin-top: 15px;
+    width: 800px;
+    height: 650px;
+    background-color: #e3f2e1;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.445);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+div#patrocinio {
+    margin: auto;
+    width: 1300px;
+    height: 200px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.445);
+}
+
+.rodape{
+    margin: auto;
+    border-radius: 10px;
+    background-color: #ffa188;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.445);
+    color: black;
+    width: 1300px;
+    height: 120px
+}
+.contatos{
+    padding-left: 75px;
+    padding-top: 15px;
+}
+.watzap{
+    width: 50px;
+    padding-left: 15px;
+}
+.insta{
+    width: 85px;
+    padding-left: 15px;
+}
+.termos{
+    text-align: right;
+    padding-right: 75px;
+}
+
+.sp{
+    width: 250px;
+}
+
+.pei{
+    width: 150px;
+}
+
+div#compra {
+    margin-left: 775px;
+    width: 475px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #ffa188;
+}
+.coisas{
+    text-align: center;
+}
